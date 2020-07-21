@@ -1,2 +1,2 @@
 "# SummerPractice" 
-SOME and OTHER CHANGE
+SOME CHANGE 
